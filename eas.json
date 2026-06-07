@@ -9,9 +9,9 @@
     },
     "preview": {
       "distribution": "internal",
+      "image": "ubuntu-22.04-jdk-17-ndk-r25b",
       "android": {
-        "buildType": "apk",
-        "image": "ubuntu-22.04-jdk-17-ndk-r25b"
+        "buildType": "apk"
       }
     },
     "production": {}
