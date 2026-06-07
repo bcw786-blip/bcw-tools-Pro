@@ -44,6 +44,11 @@
         "ACCESS_WIFI_STATE"
       ]
     },
+    "extra": {
+      "eas": {
+        "projectId": "b76d4b7f-2790-4c47-9e75-f7de6176b3c6"
+      }
+    },
     "web": {
       "favicon": "./icon.png"
     }
